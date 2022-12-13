@@ -37,7 +37,7 @@
     </script>
 </head>
 <body>
-<h1>게시판</h1>
+<h1>질문 게시판</h1>
 
 <br/><button type="button" onclick="location.href='../login/logout'">logout</button>
 

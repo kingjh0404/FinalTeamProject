@@ -19,7 +19,7 @@
 </head>
 <body>
     <div style="width: 100%; text-align: center; padding-top: 100px">
-        <img src="../resources/img/git.png" height="250">
+        <img src="../resources/img/qna.png" height="250">
         <form method="post" action="loginOk">
             <div><label>User ID:</label> <input type="text" name="userid"/></div>
             <div><label>Password:</label>

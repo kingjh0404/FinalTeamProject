@@ -28,8 +28,8 @@
     <tr><td>제목:</td><td><form:input path="title"/></td></tr>
     <tr><td>글쓴이:</td><td><form:input path="writer"/></td></tr>
     <tr><td>내용</td><td><form:textarea cols="50" rows="5" path="content"/></td></tr>
-    <tr><td>카테고리:</td><td><form:input path="category"/></td></tr>
-    <tr><td>주제:</td><td><form:input path="topic"/></td></tr>
+    <tr><td>전공:</td><td><form:input path="category"/></td></tr>
+    <tr><td>과목:</td><td><form:input path="topic"/></td></tr>
 
     <%--<tr><td>Content:</td><td><textarea cols="50" rows="5" name="content"><%= u.getContent()%></textarea></td></tr>--%>
     <tr><td colspan="2">

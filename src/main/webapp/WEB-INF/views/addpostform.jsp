@@ -14,8 +14,8 @@
     <tr><td>제목:</td><td><input type="text" name="title"/></td></tr>
     <tr><td>글쓴이:</td><td><input type="text" name="writer"/></td></tr>
     <tr><td>내용:</td><td><textarea cols="50" rows="5" name="content"></textarea></td></tr>
-    <tr><td>카테고리:</td><td><input type="text" name="category"/></td></tr>
-    <tr><td>주제:</td><td><input type="text" name="topic"/></td></tr>
+    <tr><td>전공:</td><td><input type="text" name="category"/></td></tr>
+    <tr><td>과목:</td><td><input type="text" name="topic"/></td></tr>
 
 
   </table>
